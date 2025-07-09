@@ -1,6 +1,6 @@
 # Green City Analytics 🌳
 
-## OpenClassrooms Project 2: Smart City Competition
+## Project : Smart City Competition
 
 ### 📋 Project Overview
 This project is part of the OpenClassrooms AI Engineer path, focusing on data analysis and optimization for urban planning. The goal is to analyze tree data from Paris to optimize maintenance routes and urban forestry management.
@@ -71,9 +71,6 @@ green-city-analytics/
 - Statistical analysis
 - Data visualization
 - Problem-solving for urban planning
-
-### 🤝 Contact
-Created by Sofiane Derraz as part of the OpenClassrooms AI Engineer certification program.
 
 ---
 *Note: This was an educational project. The insights and methodologies developed here can be applied to real-world urban planning and smart city initiatives.*
