@@ -1,6 +1,6 @@
 # Green City Analytics 🌳
 
-## Project : Smart City Competition
+## Project: Smart City Competition
 
 ### 📋 Project Overview
 This project is focusing on data analysis and optimization for urban planning. The goal is to analyze tree data from Paris to optimize maintenance routes and urban forestry management.
