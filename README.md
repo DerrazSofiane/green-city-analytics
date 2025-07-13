@@ -3,7 +3,7 @@
 ## Project : Smart City Competition
 
 ### 📋 Project Overview
-This project is part of the OpenClassrooms AI Engineer path, focusing on data analysis and optimization for urban planning. The goal is to analyze tree data from Paris to optimize maintenance routes and urban forestry management.
+This project is focusing on data analysis and optimization for urban planning. The goal is to analyze tree data from Paris to optimize maintenance routes and urban forestry management.
 
 ### 🎯 Objectives
 - Perform exploratory data analysis on Paris urban tree inventory
